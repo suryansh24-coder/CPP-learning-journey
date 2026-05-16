@@ -158,7 +158,7 @@ g++ "Kadane's Algorithm .cpp" -o kadane_demo
 
 ---
 
-## 💡 **Why I Built This (Placement Perspective)**
+## 💡 **Why I Built This **
 
 This repository is carefully engineered as a self-contained environment to showcase coding proficiency across a wide spectrum of software engineering fundamentals. 
 
